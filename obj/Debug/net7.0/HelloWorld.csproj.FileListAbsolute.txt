@@ -1,0 +1,15 @@
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/migue/Proyectos .net y react/Proyectos .net/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
